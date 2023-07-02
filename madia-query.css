@@ -118,7 +118,7 @@
     }
 
     .static-txt::after{
-        content: "i am dainel";
+        content: "I AM DANIEL";
         font-size: 30px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         
@@ -190,7 +190,7 @@
     }
 
     .static-txt::after{
-        content: "i am dainel";
+        content: "I AM DANIEL";
         font-size: 30px;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
